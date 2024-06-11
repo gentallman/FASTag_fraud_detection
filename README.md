@@ -1,4 +1,4 @@
-# FASTag Fraud Detection
+<h1 align="center"> FASTag Fraud Detection </h1>
 <p align="center">
 <img src="https://github.com/gentallman/FASTag_fraud_detection/blob/main/Fastag-logo.png" width="60%" height="60%">
 </p>
@@ -120,6 +120,10 @@ Based on the analysis provided, several insights into the factors contributing t
 
 Author: Smit Rana
 
+LinkedIn: https://www.linkedin.com/in/smit98rana/
 
-LinkedIn: [linkedin.com/in/smit98rana/](https://www.linkedin.com/in/smit98rana/)https://www.linkedin.com/in/smit98rana/
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 
